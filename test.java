@@ -198,7 +198,7 @@ public class test {
             "CCwYI1Jsh58HDSn023FLj\t193224269\t038";
 
 
-    static String Stringurl = "http://111.198.162.44/jzyxpt/callout" +
+    static String Stringurl = "http://192.168.1.1/jzyxpt/callout" +
             "/getDataDetail?activityId=%s&provideId=%s&custormerId=%s";
 
     public static void main(String[] args) {
